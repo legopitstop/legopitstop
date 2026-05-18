@@ -1,6 +1,6 @@
 
 - 😄 Pronouns: he/him
-- 🎂 Age: 23
+- 🎂 Age: 24
 - 📍 Location: Wisconsin, USA
 - 🔭 I’m currently working on Minecraft mods, Python modules, Node packages, and [docs.lpsmods.dev](https://docs.lpsmods.dev)
 - 🌱 I’m currently learning: Java
